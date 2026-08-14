@@ -14,4 +14,4 @@ One-paragraph description of what your team is building goes here.
 git clone <this-repo-url>
 cd <repo-name>
 ```
-put tank in a mall
+Hello, BuiDut and Sein Kampf was here (pls hex save with thangkaka26)
